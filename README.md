@@ -49,7 +49,7 @@
 ![з1-2](https://github.com/user-attachments/assets/87fcf7db-2898-4277-bc1e-a9d67ac57f52)
 
 
-```
+
 
 https://www.exploit-db.com/exploits/49757 
 
@@ -57,7 +57,7 @@ https://www.exploit-db.com/exploits/18280
 
 https://www.exploit-db.com/exploits/32674
 
-```
+
 
 
 ### Задание 2
